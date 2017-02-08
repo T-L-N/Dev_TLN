@@ -130,29 +130,19 @@ else
  ## chmod 777 config_fix.sh
   
   echo -e "\033[38;5;208m"   
-  echo -e "       CH > @lTSHAKEl_CH            "
-  echo -e "       CH > @lTSHAKEl_CH           "
-  echo -e "       CH > @lTSHAKEl_CH    "
-  echo -e "       CH > @lTSHAKEl_CH     "
-  echo -e "       CH > @lTSHAKEl_CH      "
-  echo -e "       CH > @lTSHAKEl_CH     "
-  echo -e "       CH > @lTSHAKEl_CH            " 
-  echo -e "       CH > @lTSHAKEl_CH            "     
-  echo -e "       CH > @lTSHAKEl_CH           "
-  echo -e "       CH > @lTSHAKEl_CH         " 
-  echo -e "       CH > @lTSHAKEl_CH           " 
-  echo -e "       CH > @lTSHAKEl_CH          \033[0;00m"
+
+  echo -e "       CH > @Dev_TLN          \033[0;00m"
   echo -e "\e[36m"                                      
-  echo -e "CH > @lTSHAKEl_CH" 
+  echo -e "CH > @Dev_TLN " 
    cat << EOF
 $f1  _____   _       _   _  { تم رفع السورس من قبل المطورين }
 $f1 |_   _| | |     | \ | |  Dev @Aaa1R       * علي دراغون *
 $f1   | |   | |     |  \| |  Dev @llN00Nll    * نضوري *
 $f1   | |   | |___  | |\  |  Dev @liknil      * كرار بن الرئاسة *
 $f1   |_|   |_____| |_| \_|
-$f1                       Channel @TLN_HD
+$f1                       Channel @Dev_TLN
 EOF
-echo -e "\e[100m          CH > @TLN_HD        \e[00;37;40m"
+echo -e "\e[100m          CH > @Dev_TLN        \e[00;37;40m"
 echo -e "\e[01;34m        CH > @CH_DEV         \e[00;37;40m"
 echo ""
    
