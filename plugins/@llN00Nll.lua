@@ -7,11 +7,10 @@
 Dev @Aaa1R (علي_دراكون)
 Dev @llN00Nll (نظوري_الرئاسه)
 Dev @liknil (كرار_ابن_الرئاسه)
-Dev @x_I_10_I_x (انور_فايدر)
-—]]
+--]]
 do 
 
-local function run(msg, matches) 
+ local function TLN(msg, matches) 
  local sudo = 290544647
  local r = get_receiver(msg)
   send_large_msg(r, "انتہٰضرنہٰي 🙊 اصيہٰحہٰلك مہٰطوري واجہٰي ❤️🏃 ")
@@ -22,7 +21,7 @@ return {
   patterns = { 
      "^(@llN00Nll)$" 
   }, 
-  run = run, 
+  run = TLN, 
 } 
 
 end
