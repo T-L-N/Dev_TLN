@@ -260,8 +260,8 @@ function create_config( )
     "lock_emoji",
     "dev-n",
     "delet",
-    "supergroup"
-    "owners"
+    "supergroup",
+    "owners",
 
     },
     sudo_users = {290544647},{162961370},--Sudo users
