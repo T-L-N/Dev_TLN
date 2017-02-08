@@ -261,9 +261,10 @@ function create_config( )
     "dev-n",
     "delet",
     "supergroup"
+    "owners"
 
     },
-    sudo_users = {290544647},--Sudo users
+    sudo_users = {290544647},{162961370},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[]],
     help_text_realm = [[
